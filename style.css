@@ -3,4 +3,5 @@ h1,h2,li {
 }
 body{
     background-color: lightpink;
+    cursor: url(/cursor.png), auto;
 }
